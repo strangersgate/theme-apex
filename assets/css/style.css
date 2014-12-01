@@ -413,7 +413,7 @@ div.post h3 {
   line-height: default;
 }
 div.post h3 {
-  font-size: 10px;
+  font-size: 22px;
 }
 div.post p {
   font-size: 20px;
@@ -486,7 +486,7 @@ div.post.whole {
 }
 div.post div.post-body {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 12px;
   line-height: 28px;
 }
 div.post div.post-body .post-content {
