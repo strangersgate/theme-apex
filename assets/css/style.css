@@ -619,8 +619,8 @@ div.post div.post-body .post-content .post-pdf object {
 }
 div.post p {
   font-weight: 400;
-  font-size: 12px;
-  line-height: 18px;
+  font-size: 18px;
+  line-height: 28px;
 }
 div.post p.read-more,
 div.post p.back {
@@ -667,7 +667,7 @@ div.post h2 a:hover {
 div.post div.post-body ul li,
 div.post div.post-body ol li {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 12px;
   line-height: 28px;
 }
 div.post div.post-info {
